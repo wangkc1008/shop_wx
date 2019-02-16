@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/product/product",
+    "pages/theme/theme"
+  ]
+}
